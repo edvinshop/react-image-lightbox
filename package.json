@@ -68,8 +68,8 @@
   "module": "dist/index.es.js",
   "name": "react-image-lightbox",
   "peerDependencies": {
-    "react": "16.x || 17.x",
-    "react-dom": "16.x || 17.x"
+    "react": "16.x || 17.x || 18.x",
+    "react-dom": "16.x || 17.x || 18.x"
   },
   "repository": {
     "type": "git",
